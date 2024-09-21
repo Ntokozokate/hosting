@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(244, 207, 163);
+}
+.image {
+  width: 80%;
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
+}
+h1 {
+  text-align: center;
+}
